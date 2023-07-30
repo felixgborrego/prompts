@@ -8,8 +8,7 @@ Write a script to setup and install a new laptop.
 - brew
 - iterm2 
 - intellj 
-- pycharm, 
-- brew install fig
+- pycharm
 - sdkman, Scala, sbt, java, Maven
 - python, conda, 
 - minikube
