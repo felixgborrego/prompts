@@ -13,6 +13,7 @@ Write a script to setup and install a new laptop.
 - intellj CE
 - pycharm
 - sdkman,
+- brew install protobuf
 - using sdkman: install Scala, sbt, java 11, Maven
 - python, conda, 
 - minikube
@@ -23,6 +24,13 @@ Write a script to setup and install a new laptop.
 - get, git lfs,
 Add a comment explaining what the software is for and divided in functions.
 The script must report the installation success/failure of each application at the end
+
+for go, install the following modules:
+- go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+- go install github.com/gogo/protobuf/protoc-gen-gofast@latest
+- go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest
+- go install github.com/infobloxopen/protoc-gen-gorm@v1.0.1
+- go install github.com/vektra/mockery/v2@latest
 
 Also, configure Macos with:
 - Show hidden files
