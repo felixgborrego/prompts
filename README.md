@@ -13,7 +13,7 @@ Write a script to setup and install a new laptop.
 - python, conda, 
 - minikube
 - SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
--  Google Cloud CLI tools,
+-  Google Cloud CLI tools, dbeaver-community
 - rust cargo (using rustup script)
 - golang (and configure GOPATH and PATH  in zshrc)
 - get, git lfs,
