@@ -31,6 +31,8 @@ for go, install the following modules:
 - go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest
 - go install github.com/infobloxopen/protoc-gen-gorm@v1.0.1
 - go install github.com/vektra/mockery/v2@latest
+and create the folder:
+mkdir -p $GOPATH/src/github.com
 
 Also, configure Macos with:
 - Show hidden files
