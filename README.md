@@ -4,6 +4,9 @@
 
 ```
 Write a script to setup and install a new laptop.
+
+ Add customization for the macOS Zsh terminal for developers to show git commit and branch status using the robbyrussell zsh theme.
+
  I want to install:
 - brew
 - iterm2 
@@ -19,8 +22,6 @@ Write a script to setup and install a new laptop.
 - get, git lfs,
 Add a comment explaining what the software is for and divided in functions.
 The script must report the installation success/failure of each application at the end
-
-Also, add customization for the macOS Zsh terminal for developers to show git commit and branch status using the robbyrussell zsh theme.
 
 Also, configure Macos with:
 - Show hidden files
