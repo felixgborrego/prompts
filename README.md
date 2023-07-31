@@ -12,7 +12,8 @@ Write a script to setup and install a new laptop.
 - iterm2 
 - intellj CE
 - pycharm
-- sdkman, Scala, sbt, java, Maven
+- sdkman,
+- using sdkman, install Scala, sbt, java 11, Maven
 - python, conda, 
 - minikube
 - SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
