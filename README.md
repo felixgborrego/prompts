@@ -15,6 +15,7 @@ Write a script to setup and install a new laptop.
 - intellj CE
 - pycharm
 - sdkman,
+- Google Cloud CLI tools (and install the components: kubectl)
 - SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
 - minikube
 - teleport
@@ -24,6 +25,7 @@ Also, configure Macos with:
 - Show hidden files
 - Hide Dock
 - Add launcher for Idea CE to the PATH
+- Create an alias k for kubectl
 ```
 
 ### Step 2
@@ -31,7 +33,7 @@ Also, configure Macos with:
 - brew install protobuf
 - using sdkman: install Scala, sbt, java 11, Maven
 - python, conda, 
-- Google Cloud CLI tools (and install the components: kubectl)
+
 - dbeaver-community
 - rust cargo (using rustup script)
 - golang with brew (and configure GOPATH as $HOME/code/go and PATH with the brew installed version in zshrc)
