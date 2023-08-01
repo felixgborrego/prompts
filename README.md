@@ -18,6 +18,7 @@ Write a script to setup and install a new laptop.
 - SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
 - minikube
 - teleport
+- kube-ps1 with brew, and update the PROMPT with: PROMPT='$(kube_ps1)'$PROMPT
 
 Also, configure Macos with:
 - Show hidden files
