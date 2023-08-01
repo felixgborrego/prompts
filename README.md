@@ -18,7 +18,7 @@ Write a script to setup and install a new laptop.
 - Google Cloud CLI tools (and install the components: kubectl)
 - SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
 - minikube
-- teleport
+- teleport and configure KUBECONFIG as 'export KUBECONFIG=${HOME?}/.kube/teleport-kubeconfig.yaml'
 - kube-ps1 with brew, and update the PROMPT with: PROMPT='$(kube_ps1)'$PROMPT
 
 Also, configure Macos with:
