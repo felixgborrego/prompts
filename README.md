@@ -32,7 +32,7 @@ Also, configure Macos with:
 ```
 - using sdkman: install Scala, sbt, java 11.0.20-tem, Maven
 - python, conda, 
-- using brew,install:  node, pulumi, protobuf, grpcurl, jq, bloomrpc
+- using brew, install:  node, pulumi, protobuf, grpcurl, jq, bloomrpc, bufbuild/buf/buf
 - dbeaver-community
 - rust cargo (using rustup script)
 - golang with brew (and configure GOPATH as $HOME/code/go and PATH with the brew installed version in zshrc)
