@@ -2,6 +2,8 @@
 
 ## Dev Laptop setup
 
+### Step 1
+
 ```
 Write a script to setup and install a new laptop.
 
@@ -13,16 +15,25 @@ Write a script to setup and install a new laptop.
 - intellj CE
 - pycharm
 - sdkman,
+- SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
+- minikube
+
+Also, configure Macos with:
+- Show hidden files
+- Hide Dock
+- Add launcher for Idea CE to the PATH
+```
+
+### Step 2
+```
 - brew install protobuf
 - using sdkman: install Scala, sbt, java 11, Maven
 - python, conda, 
-- minikube
-- SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
 - Google Cloud CLI tools (and install the components: kubectl)
 - dbeaver-community
 - rust cargo (using rustup script)
 - golang with brew (and configure GOPATH as $HOME/code/go and PATH with the brew installed version in zshrc)
-- GitHub CLI, git lfs, Microsoft Git Credential Manager
+- GitHub CLI, git-lfs, git-credential-manager-core
 - wget
 Add a comment explaining what the software is for and divided in functions.
 The script must report the installation success/failure of each application at the end
@@ -35,10 +46,4 @@ for go, install the following modules:
 - go install github.com/vektra/mockery/v2@latest
 and create the folder:
 mkdir -p $GOPATH/src/github.com
-
-Also, configure Macos with:
-- Show hidden files
-- Hide Dock
-- Add launcher for Idea CE to the PATH
--  
 ```
