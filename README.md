@@ -31,7 +31,7 @@ Also, configure Macos with:
 ### Step 2
 ```
 - brew install protobuf
-- using sdkman: install Scala, sbt, java 11, Maven
+- using sdkman: install Scala, sbt, java 11.0.20-tem, Maven
 - python, conda, 
 
 - dbeaver-community
