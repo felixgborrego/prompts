@@ -14,6 +14,7 @@ Write a script to setup and install a new laptop.
 - iterm2 
 - intellj CE
 - pycharm
+- miro
 - sdkman,
 - Google Cloud CLI tools (and install the components: kubectl)
 - SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
