@@ -20,13 +20,18 @@ Write a script to setup and install a new laptop.
 - SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
 - minikube
 - teleport and configure KUBECONFIG as 'export KUBECONFIG=${HOME?}/.kube/teleport-kubeconfig.yaml'
-- kube-ps1 with brew, and update the PROMPT with: PROMPT='$(kube_ps1)'$PROMPT
+- kube-ps1 with brew
 
 Also, configure Macos with:
 - Show hidden files
 - Hide Dock
 - Add launcher for Idea CE to the PATH
 - Create an alias k for kubectl
+- configure the PROMPT as:
+   NEWLINE=$'\n'
+   PROMPT="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ ) %{$fg[cyan]%}%~%{$reset_color%}"
+   PROMPT+=' $(kube_ps1) $(git_prompt_info) $NEWLINE%(!.#.$) '
+
 ```
 
 ### Step 2
