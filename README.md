@@ -46,4 +46,9 @@ for go, install the following modules:
 - go install github.com/vektra/mockery/v2@latest
 and create the folder:
 mkdir -p $GOPATH/src/github.com
+
+- Configure gitglobal with:
+# To access private repositories use ssh https://go.dev/doc/faq#git_https	
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
 ```
