@@ -30,10 +30,9 @@ Also, configure Macos with:
 
 ### Step 2
 ```
-- brew install protobuf
 - using sdkman: install Scala, sbt, java 11.0.20-tem, Maven
 - python, conda, 
-
+- using brew,install:  node, pulumi, protobuf, grpcurl, jq, bloomrpc
 - dbeaver-community
 - rust cargo (using rustup script)
 - golang with brew (and configure GOPATH as $HOME/code/go and PATH with the brew installed version in zshrc)
