@@ -22,7 +22,7 @@ Write a script to setup and install a new laptop.
 - dbeaver-community
 - rust cargo (using rustup script)
 - golang with brew (and configure GOPATH as $HOME/code/go and PATH with the brew installed version in zshrc)
-- GitHub CLI, git lfs,
+- GitHub CLI, git lfs, Microsoft Git Credential Manager
 - wget
 Add a comment explaining what the software is for and divided in functions.
 The script must report the installation success/failure of each application at the end
