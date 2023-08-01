@@ -17,6 +17,7 @@ Write a script to setup and install a new laptop.
 - sdkman,
 - SourceTree, Visual Code, Docker, Lens, Authy, headlamp, rectangle, Google Drive, Teams, Slack
 - minikube
+- teleport
 
 Also, configure Macos with:
 - Show hidden files
