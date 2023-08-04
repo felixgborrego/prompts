@@ -41,7 +41,7 @@ Also, configure Macos with:
 - using brew, install:  node, pulumi, protobuf, grpcurl, jq, bloomrpc, bufbuild/buf/buf
 - dbeaver-community
 - rust cargo (using rustup script)
-- golang with brew (and configure GOPATH as $HOME/code/go and PATH with the brew installed version in zshrc)
+- golang with brew (and configure GOPATH as de defaultas $HOME/go and the GOPATH/bin to the PATH)
 - GitHub CLI, git-lfs, git-credential-manager-core
 - wget
 Add a comment explaining what the software is for and divided in functions.
