@@ -39,6 +39,7 @@ Also, configure Macos with:
 - using sdkman: install Scala, sbt, java 11.0.20-tem, Maven
 - python, conda, 
 - using brew, install:  node, pulumi, protobuf, grpcurl, jq, bloomrpc, bufbuild/buf/buf
+- install yarn using npm
 - dbeaver-community
 - rust cargo (using rustup script)
 - golang with brew (and configure GOPATH as de defaultas $HOME/go and the GOPATH/bin to the PATH)
