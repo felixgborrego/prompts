@@ -17,4 +17,13 @@ Some wording preferences, I'd like to use:
 ---
 ```
 
+* Go Code:
+
+```
+Rewrite this go code inside the separator '###' to make it as idiomatic as possible, break it into small testable functions and add comments when needed. Also, fix any Engish or go grammar issues:
+###
+[Insert text here]
+###
+```
+
 
