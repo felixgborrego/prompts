@@ -24,6 +24,7 @@ Rewrite this go code inside the separator '###' to make it as idiomatic as possi
 ###
 [Insert text here]
 ###
+After processing the code, lists the changes.
 ```
 
 
