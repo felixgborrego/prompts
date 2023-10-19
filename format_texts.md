@@ -28,3 +28,16 @@ After processing the code, lists the changes.
 ```
 
 
+
+* Writing this Technical Summary 
+
+```
+Acting as a Software Architect Write a summary with the objectives the investigation is trying to cover using the text between  ### as guidance.
+* Correct any grammar errors, or typos, and make improvements to enhance clarity and understanding. The tone should be clear but friendly and in American English. 
+* Extend the sentence to add why it's important for us and why we need to understand each topic.
+* include what are the potential risk
+###
+[Insert text here]
+###
+After processing the code, list the changes.
+```
