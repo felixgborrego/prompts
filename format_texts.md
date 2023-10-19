@@ -41,3 +41,17 @@ Acting as a Software Architect Write a summary with the objectives the investiga
 ###
 After processing the code, list the changes.
 ```
+
+
+```
+Acting as a Software Architect Write a write the result of the investigation using the text between  ### as guidance.
+* Correct any grammar errors, or typos, and make improvements to enhance clarity and understanding. The tone should be clear but friendly and in American English. 
+* Extend each topic with your own knowledge about the technology and how to potentially solve the issue
+* Use statements typically used in software engineering like native support instead of inherently.
+* You are not a consultant but a hands-on engineer don't be to verbose.
+
+###
+[Insert text here]
+###
+After processing the code, list the changes.
+```
